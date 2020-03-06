@@ -1,0 +1,57 @@
+@import 'minireset.css/minireset.css';
+@import './elementui.scss';
+@import '../assets/iconfonts/css/fontello.css';
+// ElementUI
+
+body {
+  height: 100vh;
+  background: #fff;
+  font-family: Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  .article-source {
+    color: #f98d2e;
+  }
+}
+
+.wrapper {
+  width: 1200px;
+
+  &--center {
+    margin: 0 auto;
+  }
+}
+
+.footer {
+  min-width: 1200px;
+  text-align: center;
+  background: #f0f4f5;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  color:#999;
+  a {
+    color:#999;
+  }
+}
+
+.hidden {
+  display:none;
+}
+.kc-card {
+  box-shadow: 0 0 5px 3px hsla(192,9%,90%,.5);
+  background: #fff;
+
+  &--wrap {
+    padding: 20px 30px 30px 30px;
+  }
+}
+
+.note-btn.kc-hidden {
+  display: none;
+}
+.table-element-view-icon {
+  font-size:18px;
+}

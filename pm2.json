@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "qscms",
+    "script": "production.js",
+    "cwd": "/Users/liguangzhao/Documents/workspace/qscms",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
