@@ -16,7 +16,7 @@
     "type": "file",
     "file": {
       "timeout": 86400000,
-      "cachePath": "/Users/liguangzhao/Documents/workspace/qscms/runtime/cache",
+      "cachePath": "/Users/liguangzhao/Documents/workspace/thinkjs_vue-quick-start/runtime/cache",
       "pathDepth": 1,
       "gcInterval": 86400000
     }
@@ -42,13 +42,13 @@
       "cookie": {
         "name": "thinkjs"
       },
-      "sessionPath": "/Users/liguangzhao/Documents/workspace/qscms/runtime/session"
+      "sessionPath": "/Users/liguangzhao/Documents/workspace/thinkjs_vue-quick-start/runtime/session"
     }
   },
   "view": {
     "type": "nunjucks",
     "nunjucks": {
-      "viewPath": "/Users/liguangzhao/Documents/workspace/qscms/view",
+      "viewPath": "/Users/liguangzhao/Documents/workspace/thinkjs_vue-quick-start/view",
       "sep": "_",
       "extname": ".html",
       "options": {
@@ -66,14 +66,14 @@
       "backups": 10,
       "absolute": true,
       "maxLogSize": 51200,
-      "filename": "/Users/liguangzhao/Documents/workspace/qscms/logs/app.log"
+      "filename": "/Users/liguangzhao/Documents/workspace/thinkjs_vue-quick-start/logs/app.log"
     },
     "dateFile": {
       "level": "ALL",
       "absolute": true,
       "pattern": "-yyyy-MM-dd",
       "alwaysIncludePattern": true,
-      "filename": "/Users/liguangzhao/Documents/workspace/qscms/logs/app.log"
+      "filename": "/Users/liguangzhao/Documents/workspace/thinkjs_vue-quick-start/logs/app.log"
     }
   }
 }

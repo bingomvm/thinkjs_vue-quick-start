@@ -1,0 +1,6 @@
+{
+    "extends": "think",
+    "rules": {
+      "camelcase": [0, { "properties": "never" }]
+    }
+  }
